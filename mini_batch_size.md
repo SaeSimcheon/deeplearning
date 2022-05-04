@@ -6,3 +6,5 @@
 
 
 [참고](https://stats.stackexchange.com/questions/164876/what-is-the-trade-off-between-batch-size-and-number-of-iterations-to-train-a-neu)
+
+[전반적인 가이드](https://www.kaggle.com/code/residentmario/full-batch-mini-batch-and-online-learning/notebook)
